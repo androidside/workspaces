@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "..\\flip-backend"
+	},
+	{
+		"path": "..\\flip-python"
+	},
+	{
+		"path": "..\\flip-python-db"
+	}
+],
+  "settings": {}
+}

@@ -26,5 +26,8 @@
     {
       "path": "..\\cs142-proj8"
     }
-  ]
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
 }
