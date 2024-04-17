@@ -1,14 +1,30 @@
 {
   "folders": [
-	{
-		"path": "..\\flip-backend"
-	},
-	{
-		"path": "..\\flip-python"
-	},
-	{
-		"path": "..\\flip-python-db"
-	}
-],
-  "settings": {}
+    {
+      "path": "../lambdas"
+    },
+    {
+      "path": "../flip-frontend"
+    },
+    {
+      "path": "../flip-nestjs"
+    },
+    {
+      "path": "../flip-python-db"
+    },
+    {
+      "path": "../flip-commercial"
+    },
+    {
+      "path": "../landingpage"
+    }
+  ],
+  "settings": {
+    "java.compile.nullAnalysis.mode": "automatic",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "search.useIgnoreFiles": true
+  }
 }
