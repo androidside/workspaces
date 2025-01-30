@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "name": "flip-python-db",
+      "path": "../flip-python-db"
+    },
+    {
+      "path": "../flip-nestjs"
+    },
+    {
+      "path": "../lambdas"
+    },
+    {
+      "path": "../flip-frontend"
+    },
+    {
+      "path": "../flip-commercial"
+    },
+    {
+      "path": "../Hacking"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "flip-commercial\\node_modules\\typescript\\lib",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+  }
+}
